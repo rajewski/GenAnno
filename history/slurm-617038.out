@@ -1,0 +1,26 @@
+mkdir: cannot create directory 'IPROUT': File exists
+22/04/2017 01:03:50:713 Welcome to InterProScan-5.22-61.0
+22/04/2017 01:03:57:148 Running InterProScan v5 in STANDALONE mode... on Linux
+22/04/2017 01:04:08:953 Loading file /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/purple_kush.proteins.fa
+22/04/2017 01:04:08:956 Running the following analyses:
+[CDD-3.14,Coils-2.2.1,Gene3D-3.5.0,Hamap-201605.11,MobiDBLite-1.0,PANTHER-11.1,Pfam-30.0,Phobius-1.01,PIRSF-3.01,PRINTS-42.0,ProDom-2006.1,ProSitePatterns-20.119,ProSiteProfiles-20.119,SFLD-2,SignalP_EUK-4.1,SignalP_GRAM_NEGATIVE-4.1,SignalP_GRAM_POSITIVE-4.1,SMART-7.1,SUPERFAMILY-1.75,TIGRFAM-15.0]
+Available matches will be retrieved from the pre-calculated match lookup service.
+
+Matches for any sequences that are not represented in the lookup service will be calculated locally.
+2017-04-22 01:04:15,401 [amqEmbeddedWorkerJmsContainer-5] [uk.ac.ebi.interpro.scan.business.sequence.BerkeleyPrecalculatedProteinLookup:350] WARN - 
+
+The version of InterProScan you are using is 5.22-61.0
+The version of the lookup service you are using is 5.23-62.0
+As the data in these versions is not the same, you cannot use this match lookup service.
+InterProScan will now run locally
+If you would like to use the match lookup service, you have the following options:
+i) Download the newest version of InterProScan5 from our FTP site by following the instructions on:
+   https://www.ebi.ac.uk/interpro/interproscan.html
+ii) Download the match lookup service for your version of InterProScan from our FTP site and install it locally.
+    You will then need to edit the following property in your configuration file to point to your local installation:
+    precalculated.match.lookup.service.url=
+
+In the meantime, the analysis will continue to run locally.
+
+
+slurmstepd-i35: error: *** JOB 617038 ON i35 CANCELLED AT 2017-04-22T01:07:18 ***

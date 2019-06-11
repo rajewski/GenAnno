@@ -1,0 +1,6 @@
+[92m[06:13:57 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[06:13:57 PM][0m: Running funannotate v0.6.0
+[92m[06:13:58 PM][0m: No NCBI SBT file given, will use default, however if you plan to submit to NCBI, create one and pass it here '--sbt'
+[92m[06:13:58 PM][0m: /srv/projects/db/eggNOG/4.0 is not a valid EggNog group, options are:
+cryNOG, deiNOG, inNOG, gproNOG, opiNOG, negNOG, apiNOG, theNOG, delNOG, biNOG, metNOG, strNOG, therNOG, bactNOG, eryNOG, eurotNOG, cloNOG, proNOG, chlNOG, plaNOG, methNOG, hypNOG, chorNOG, verNOG, eproNOG, defNOG, spiNOG, perNOG, kinNOG, necNOG, sordNOG, dproNOG, verrNOG, arcNOG, debNOG, acidNOG, lilNOG, cyaNOG, maNOG, agarNOG, onyNOG, halNOG, chlorNOG, braNOG, artNOG, bacNOG, eurNOG, meNOG, synNOG, actNOG, NOG, euNOG, chloroNOG, sorNOG, haeNOG, cocNOG, poaNOG, acoNOG, fuNOG, pleNOG, arthNOG, fiNOG, droNOG, euroNOG, rhaNOG, saccNOG, homNOG, hymNOG, chrNOG, magNOG, methaNOG, cytNOG, firmNOG, spriNOG, dehNOG, creNOG, aciNOG, virNOG, thermNOG, bproNOG, fusoNOG, thaNOG, treNOG, flaNOG, bctoNOG, chaNOG, chloNOG, prNOG, aproNOG, basNOG, chlaNOG, bacteNOG, agaNOG, sphNOG, dipNOG, sacNOG, nemNOG, aquNOG, veNOG, carNOG, roNOG, tenNOG, arNOG, aveNOG, dotNOG, ascNOG, lepNOG
+-------------------------------------------------------

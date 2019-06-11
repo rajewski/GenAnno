@@ -1,0 +1,24 @@
+[92m[01:43:02 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[01:43:03 PM][0m: Running funannotate v0.6.3
+[92m[01:43:04 PM][0m: No NCBI SBT file given, will use default, however if you plan to submit to NCBI, create one and pass it here '--sbt'
+[92m[01:43:04 PM][0m: Output directory FAPredict/predict_results already exists, will use any existing data.  If this is not what you want, exit, and provide a unique name for output folder
+[92m[01:43:04 PM][0m: Parsing input files
+[92m[01:44:57 PM][0m: 76,054 protein records loaded
+[92m[01:44:57 PM][0m: Running HMMer search of PFAM domains
+[92m[01:44:57 PM][0m: 4,537 annotations added
+[92m[01:44:57 PM][0m: Running Blastp search of UniProt DB
+[92m[01:44:57 PM][0m: 5,974 annotations added
+[92m[01:44:57 PM][0m: Running Blastp search of MEROPS protease DB
+[92m[01:44:57 PM][0m: 1,475 annotations added
+[92m[01:44:57 PM][0m: Annotating CAZYmes using dbCAN
+[92m[01:44:57 PM][0m: 562 annotations added
+[92m[01:44:57 PM][0m: Annotating proteins with EggNog 4.5 database
+[92m[01:44:57 PM][0m: 3,743 annotations added
+[92m[01:44:57 PM][0m: Annotating proteins with BUSCO embryophyta_odb9 models
+[92m[01:44:57 PM][0m: 955 annotations added
+[92m[01:44:57 PM][0m: Predicting secreted and transmembrane proteins using Phobius
+[92m[01:44:58 PM][0m: Predicting secreted proteins with SignalP
+[92m[01:45:02 PM][0m: 2,072 secretome and 10,851 transmembane annotations added
+[92m[01:45:02 PM][0m: InterProScan has finished, now pulling out annotations from results
+[92m[01:45:28 PM][0m: Now parsing antiSMASH results, finding SM clusters
+slurmstepd-c34: error: *** JOB 1088560 ON c34 CANCELLED AT 2017-08-14T13:45:32 ***

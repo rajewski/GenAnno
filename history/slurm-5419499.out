@@ -1,0 +1,7 @@
+
+# $((SLURM_MEM_PER_NODE/1000))'G'
+# $SLURM_NTASKS
+
+#echo $SLURM_NTASKS is the number of cores I have
+#echo $SLURM_MEM_PER_NODE is the amount of memory I've got.
+ls -lRha | grep "total" |cut -f2 -d " "| sed 's/K/000/' |sed 's/M/000000/'| sed 's/G/000000000/'|sed 's/\.//' |paste -sd+ |bc >sum.txt

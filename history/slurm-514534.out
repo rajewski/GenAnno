@@ -1,0 +1,37 @@
+[92m[01:36:37 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[01:36:38 PM][0m: Running funannotate v0.6.0
+[92m[01:36:42 PM][0m: No NCBI SBT file given, will use default, however if you plan to submit to NCBI, create one and pass it here '--sbt'
+[92m[01:36:44 PM][0m: Output directory FAPredict/predict_results already exists, will use any existing data.  If this is not what you want, exit, and provide a unique name for output folder
+[92m[01:36:44 PM][0m: Parsing input files
+[92m[01:37:16 PM][0m: 76,054 protein records loaded
+[92m[01:37:16 PM][0m: Running HMMer search of PFAM domains
+[92m[02:30:03 PM][0m: 4,537 annotations added
+[92m[02:30:03 PM][0m: Running Blastp search of UniProt DB
+[92m[08:33:44 PM][0m: 5,974 annotations added
+[92m[08:33:44 PM][0m: Running Blastp search of MEROPS protease DB
+[92m[08:42:43 PM][0m: 1,475 annotations added
+[92m[08:42:43 PM][0m: Annotating CAZYmes using dbCAN
+[92m[09:46:13 PM][0m: 562 annotations added
+[92m[09:46:13 PM][0m: Annotating proteins with EggNog 4.5 database
+[92m[10:10:28 PM][0m: 3,743 annotations added
+[92m[10:10:28 PM][0m: Annotating proteins with BUSCO embryophyta_odb9 models
+[92m[10:11:51 PM][0m: 955 annotations added
+[92m[10:11:51 PM][0m: Predicting secreted and transmembrane proteins using Phobius
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/util/phobius-multiproc.py", line 47, in <module>
+    lib.setupLogging(log_name)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 439, in setupLogging
+    fhnd = logging.FileHandler(LOGNAME)
+  File "/usr/lib64/python2.7/logging/__init__.py", line 902, in __init__
+    StreamHandler.__init__(self, self._open())
+  File "/usr/lib64/python2.7/logging/__init__.py", line 925, in _open
+    stream = open(self.baseFilename, self.mode)
+IOError: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/FAPredict/predict_results/logfiles/phobius.log'
+[92m[10:11:51 PM][0m: Predicting secreted proteins with SignalP
+-------------------------------------------------------
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-functional.py", line 319, in <module>
+    lib.parsePhobiusSignalP(phobius_out, signalp_out, membrane_out, secreted_out)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1033, in parsePhobiusSignalP
+    with open(phobius, 'rU') as input1:
+IOError: [Errno 2] No such file or directory: 'FAPredict/predict_results/annotate_misc/phobius.results.txt'

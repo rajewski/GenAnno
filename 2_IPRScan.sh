@@ -13,16 +13,15 @@ set -euv
 
 #this script will assign interpro results to the proteins predicted by Funannotate Predict. This is meant to be run as an array job with array ID corresponding to the suffix of the protein fasta file
 
-cd ~/bigdata/Csativa/FAPredict/predict_results
 
 module load interproscan
 
 if [ ! -d "$IPROUT" ]; then
-  mkdir IPROUT
+  mkdir ~/bigdata/Csativa/results/2_IPRScan
 fi
 
 interproscan.sh \
-    -i purple_kush.proteins.fa.$SLURM_ARRAY_TASK_ID \
+    -i ~/bigdata/Csativa/results/1_FunannotatePredict/predict_results/purple_kush.proteins.fa.$SLURM_ARRAY_TASK_ID \
     -appl CDD,COILS,Gene3D,HAMAP,MobiDBLite,Pfam,PIRSF,PRINTS,ProDom,PROSITEPATTERNS,PROSITEPROFILES,SFLD,SMART,SUPERFAMILY,TIGRFAM \
-    -d IPROUT \
+    -d ~/bigdata/Csativa/results/2_IPRScan \
     --goterms

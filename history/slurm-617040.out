@@ -1,0 +1,148 @@
+mkdir: cannot create directory 'IPROUT': File exists
+22/04/2017 01:09:51:118 Welcome to InterProScan-5.22-61.0
+22/04/2017 01:09:56:814 Running InterProScan v5 in STANDALONE mode... on Linux
+22/04/2017 01:10:07:734 Loading file /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/purple_kush.proteins.fa
+22/04/2017 01:10:07:739 Running the following analyses:
+[CDD-3.14,Coils-2.2.1,Gene3D-3.5.0,Hamap-201605.11,MobiDBLite-1.0,PANTHER-11.1,Pfam-30.0,PIRSF-3.01,PRINTS-42.0,ProDom-2006.1,ProSitePatterns-20.119,ProSiteProfiles-20.119,SFLD-2,SMART-7.1,SUPERFAMILY-1.75,TIGRFAM-15.0]
+Available matches will be retrieved from the pre-calculated match lookup service.
+
+Matches for any sequences that are not represented in the lookup service will be calculated locally.
+2017-04-22 01:10:12,665 [amqEmbeddedWorkerJmsContainer-5] [uk.ac.ebi.interpro.scan.business.sequence.BerkeleyPrecalculatedProteinLookup:350] WARN - 
+
+The version of InterProScan you are using is 5.22-61.0
+The version of the lookup service you are using is 5.23-62.0
+As the data in these versions is not the same, you cannot use this match lookup service.
+InterProScan will now run locally
+If you would like to use the match lookup service, you have the following options:
+i) Download the newest version of InterProScan5 from our FTP site by following the instructions on:
+   https://www.ebi.ac.uk/interpro/interproscan.html
+ii) Download the match lookup service for your version of InterProScan from our FTP site and install it locally.
+    You will then need to edit the following property in your configuration file to point to your local installation:
+    precalculated.match.lookup.service.url=
+
+In the meantime, the analysis will continue to run locally.
+
+
+22/04/2017 01:15:06:553 Uploaded/Stored 74760 sequences for analysis
+2017-04-22 01:15:25,335 [amqEmbeddedWorkerJmsContainer-6] [uk.ac.ebi.interpro.scan.management.model.implementations.RunBinaryStep:156] ERROR - Command line failed with exit code: 17
+Command: bin/prosite/ps_scan.pl -d data/prosite/20.119/prosite.dat --pfscan bin/prosite/pfscan -s -m -o gff /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i35_20170422_010956802_adm0//jobPrositeProfiles/000000054601_000000054750.fasta 
+Error output from binary:
+Unable to create /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i35_20170422_010956802_adm0//jobPrositeProfiles//i35 at bin/prosite/ps_scan.pl line 912.
+
+2017-04-22 01:15:25,335 [amqEmbeddedWorkerJmsContainer-4] [uk.ac.ebi.interpro.scan.management.model.implementations.RunBinaryStep:156] ERROR - Command line failed with exit code: 17
+Command: bin/prosite/ps_scan.pl -d data/prosite/20.119/prosite.dat --pfscan bin/prosite/pfscan -s -m -o gff /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i35_20170422_010956802_adm0//jobPrositeProfiles/000000049501_000000049650.fasta 
+Error output from binary:
+Unable to create /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i35_20170422_010956802_adm0//jobPrositeProfiles//i35 at bin/prosite/ps_scan.pl line 912.
+
+2017-04-22 01:15:25,335 [amqEmbeddedWorkerJmsContainer-8] [uk.ac.ebi.interpro.scan.management.model.implementations.RunBinaryStep:156] ERROR - Command line failed with exit code: 17
+Command: bin/prosite/ps_scan.pl -d data/prosite/20.119/prosite.dat --pfscan bin/prosite/pfscan -s -m -o gff /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i35_20170422_010956802_adm0//jobPrositeProfiles/000000024451_000000024600.fasta 
+Error output from binary:
+Unable to create /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i35_20170422_010956802_adm0//jobPrositeProfiles//i35 at bin/prosite/ps_scan.pl line 912.
+
+2017-04-22 01:15:25,340 [amqEmbeddedWorkerJmsContainer-6] [uk.ac.ebi.interpro.scan.jms.worker.LocalJobQueueListener:199] ERROR - Execution thrown when attempting to executeInTransaction the StepExecution.  All database activity rolled back.
+java.lang.IllegalStateException: Command line failed with exit code: 17
+Command: bin/prosite/ps_scan.pl -d data/prosite/20.119/prosite.dat --pfscan bin/prosite/pfscan -s -m -o gff /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i35_20170422_010956802_adm0//jobPrositeProfiles/000000054601_000000054750.fasta 
+Error output from binary:
+Unable to create /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i35_20170422_010956802_adm0//jobPrositeProfiles//i35 at bin/prosite/ps_scan.pl line 912.
+
+	at uk.ac.ebi.interpro.scan.management.model.implementations.RunBinaryStep.execute(RunBinaryStep.java:158)
+	at uk.ac.ebi.interpro.scan.jms.activemq.StepExecutionTransactionImpl.executeInTransaction(StepExecutionTransactionImpl.java:86)
+	at sun.reflect.GeneratedMethodAccessor103.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:302)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:190)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:99)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:281)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:96)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:207)
+	at com.sun.proxy.$Proxy100.executeInTransaction(Unknown Source)
+	at uk.ac.ebi.interpro.scan.jms.worker.LocalJobQueueListener.onMessage(LocalJobQueueListener.java:189)
+	at org.springframework.jms.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:746)
+	at org.springframework.jms.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:684)
+	at org.springframework.jms.listener.AbstractMessageListenerContainer.doExecuteListener(AbstractMessageListenerContainer.java:651)
+	at org.springframework.jms.listener.AbstractPollingMessageListenerContainer.doReceiveAndExecute(AbstractPollingMessageListenerContainer.java:315)
+	at org.springframework.jms.listener.AbstractPollingMessageListenerContainer.receiveAndExecute(AbstractPollingMessageListenerContainer.java:253)
+	at org.springframework.jms.listener.DefaultMessageListenerContainer$AsyncMessageListenerInvoker.invokeListener(DefaultMessageListenerContainer.java:1150)
+	at org.springframework.jms.listener.DefaultMessageListenerContainer$AsyncMessageListenerInvoker.executeOngoingLoop(DefaultMessageListenerContainer.java:1142)
+	at org.springframework.jms.listener.DefaultMessageListenerContainer$AsyncMessageListenerInvoker.run(DefaultMessageListenerContainer.java:1039)
+	at java.lang.Thread.run(Thread.java:745)
+2017-04-22 01:15:25,340 [amqEmbeddedWorkerJmsContainer-4] [uk.ac.ebi.interpro.scan.jms.worker.LocalJobQueueListener:199] ERROR - Execution thrown when attempting to executeInTransaction the StepExecution.  All database activity rolled back.
+java.lang.IllegalStateException: Command line failed with exit code: 17
+Command: bin/prosite/ps_scan.pl -d data/prosite/20.119/prosite.dat --pfscan bin/prosite/pfscan -s -m -o gff /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i35_20170422_010956802_adm0//jobPrositeProfiles/000000049501_000000049650.fasta 
+Error output from binary:
+Unable to create /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i35_20170422_010956802_adm0//jobPrositeProfiles//i35 at bin/prosite/ps_scan.pl line 912.
+
+	at uk.ac.ebi.interpro.scan.management.model.implementations.RunBinaryStep.execute(RunBinaryStep.java:158)
+	at uk.ac.ebi.interpro.scan.jms.activemq.StepExecutionTransactionImpl.executeInTransaction(StepExecutionTransactionImpl.java:86)
+	at sun.reflect.GeneratedMethodAccessor103.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:302)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:190)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:99)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:281)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:96)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:207)
+	at com.sun.proxy.$Proxy100.executeInTransaction(Unknown Source)
+	at uk.ac.ebi.interpro.scan.jms.worker.LocalJobQueueListener.onMessage(LocalJobQueueListener.java:189)
+	at org.springframework.jms.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:746)
+	at org.springframework.jms.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:684)
+	at org.springframework.jms.listener.AbstractMessageListenerContainer.doExecuteListener(AbstractMessageListenerContainer.java:651)
+	at org.springframework.jms.listener.AbstractPollingMessageListenerContainer.doReceiveAndExecute(AbstractPollingMessageListenerContainer.java:315)
+	at org.springframework.jms.listener.AbstractPollingMessageListenerContainer.receiveAndExecute(AbstractPollingMessageListenerContainer.java:253)
+	at org.springframework.jms.listener.DefaultMessageListenerContainer$AsyncMessageListenerInvoker.invokeListener(DefaultMessageListenerContainer.java:1150)
+	at org.springframework.jms.listener.DefaultMessageListenerContainer$AsyncMessageListenerInvoker.executeOngoingLoop(DefaultMessageListenerContainer.java:1142)
+	at org.springframework.jms.listener.DefaultMessageListenerContainer$AsyncMessageListenerInvoker.run(DefaultMessageListenerContainer.java:1039)
+	at java.lang.Thread.run(Thread.java:745)
+2017-04-22 01:15:25,346 [amqEmbeddedWorkerJmsContainer-4] [uk.ac.ebi.interpro.scan.jms.worker.LocalJobQueueListener:201] ERROR - StepExecution with errors - stepName: stepPrositeProfilesRunBinary
+2017-04-22 01:15:25,340 [amqEmbeddedWorkerJmsContainer-8] [uk.ac.ebi.interpro.scan.jms.worker.LocalJobQueueListener:199] ERROR - Execution thrown when attempting to executeInTransaction the StepExecution.  All database activity rolled back.
+java.lang.IllegalStateException: Command line failed with exit code: 17
+Command: bin/prosite/ps_scan.pl -d data/prosite/20.119/prosite.dat --pfscan bin/prosite/pfscan -s -m -o gff /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i35_20170422_010956802_adm0//jobPrositeProfiles/000000024451_000000024600.fasta 
+Error output from binary:
+Unable to create /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i35_20170422_010956802_adm0//jobPrositeProfiles//i35 at bin/prosite/ps_scan.pl line 912.
+
+	at uk.ac.ebi.interpro.scan.management.model.implementations.RunBinaryStep.execute(RunBinaryStep.java:158)
+	at uk.ac.ebi.interpro.scan.jms.activemq.StepExecutionTransactionImpl.executeInTransaction(StepExecutionTransactionImpl.java:86)
+	at sun.reflect.GeneratedMethodAccessor103.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:302)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:190)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:99)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:281)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:96)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:207)
+	at com.sun.proxy.$Proxy100.executeInTransaction(Unknown Source)
+	at uk.ac.ebi.interpro.scan.jms.worker.LocalJobQueueListener.onMessage(LocalJobQueueListener.java:189)
+	at org.springframework.jms.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:746)
+	at org.springframework.jms.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:684)
+	at org.springframework.jms.listener.AbstractMessageListenerContainer.doExecuteListener(AbstractMessageListenerContainer.java:651)
+	at org.springframework.jms.listener.AbstractPollingMessageListenerContainer.doReceiveAndExecute(AbstractPollingMessageListenerContainer.java:315)
+	at org.springframework.jms.listener.AbstractPollingMessageListenerContainer.receiveAndExecute(AbstractPollingMessageListenerContainer.java:253)
+	at org.springframework.jms.listener.DefaultMessageListenerContainer$AsyncMessageListenerInvoker.invokeListener(DefaultMessageListenerContainer.java:1150)
+	at org.springframework.jms.listener.DefaultMessageListenerContainer$AsyncMessageListenerInvoker.executeOngoingLoop(DefaultMessageListenerContainer.java:1142)
+	at org.springframework.jms.listener.DefaultMessageListenerContainer$AsyncMessageListenerInvoker.run(DefaultMessageListenerContainer.java:1039)
+	at java.lang.Thread.run(Thread.java:745)
+2017-04-22 01:15:25,345 [amqEmbeddedWorkerJmsContainer-6] [uk.ac.ebi.interpro.scan.jms.worker.LocalJobQueueListener:201] ERROR - StepExecution with errors - stepName: stepPrositeProfilesRunBinary
+2017-04-22 01:15:25,347 [amqEmbeddedWorkerJmsContainer-8] [uk.ac.ebi.interpro.scan.jms.worker.LocalJobQueueListener:201] ERROR - StepExecution with errors - stepName: stepPrositeProfilesRunBinary
+2017-04-22 01:15:26,118 [main] [uk.ac.ebi.interpro.scan.jms.master.StandaloneBlackBoxMaster:82] WARN - StepInstance 5195 is being re-run following a failure.
+2017-04-22 01:15:26,120 [main] [uk.ac.ebi.interpro.scan.jms.master.StandaloneBlackBoxMaster:82] WARN - StepInstance 4991 is being re-run following a failure.
+2017-04-22 01:15:26,120 [main] [uk.ac.ebi.interpro.scan.jms.master.StandaloneBlackBoxMaster:82] WARN - StepInstance 4937 is being re-run following a failure.
+23/04/2017 02:53:57:275 25% completed
+23/04/2017 18:56:59:500 50% completed
+23/04/2017 21:47:40:954 75% completed
+24/04/2017 02:27:16:524 90% completed
+24/04/2017 04:01:46:326 100% completed
+2017-04-25 03:19:06,387 [amqEmbeddedWorkerJmsContainer-3] [org.hibernate.engine.loading.internal.LoadContexts:98] WARN - HHH000100: Fail-safe cleanup (collections) : org.hibernate.engine.loading.internal.CollectionLoadContext@289310a8<rs=rs1178426420: null>
+2017-04-25 03:19:06,402 [amqEmbeddedWorkerJmsContainer-3] [org.hibernate.engine.loading.internal.CollectionLoadContext:377] WARN - HHH000160: On CollectionLoadContext#cleanup, localLoadingCollectionKeys contained [4000] entries
+2017-04-26 08:47:25,014 [amqEmbeddedWorkerJmsContainer-3] [org.hibernate.engine.loading.internal.LoadContexts:98] WARN - HHH000100: Fail-safe cleanup (collections) : org.hibernate.engine.loading.internal.CollectionLoadContext@27d8b82b<rs=rs1179922979: null>
+2017-04-26 08:47:25,064 [amqEmbeddedWorkerJmsContainer-3] [org.hibernate.engine.loading.internal.CollectionLoadContext:377] WARN - HHH000160: On CollectionLoadContext#cleanup, localLoadingCollectionKeys contained [4000] entries
+2017-04-26 08:47:25,065 [amqEmbeddedWorkerJmsContainer-3] [org.hibernate.engine.loading.internal.LoadContexts:98] WARN - HHH000100: Fail-safe cleanup (collections) : org.hibernate.engine.loading.internal.CollectionLoadContext@71a56682<rs=rs1179920192: null>
+slurmstepd-i35: error: *** JOB 617040 ON i35 CANCELLED AT 2017-04-26T09:42:09 ***

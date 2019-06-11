@@ -1,0 +1,4 @@
+mkdir: cannot create directory 'IPROUT': File exists
+Java version 1.8 or above is required to run InterProScan.
+Detected version 1.7
+Please install the correct version.

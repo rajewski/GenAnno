@@ -1,0 +1,8 @@
+[92m[08:17:49 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[08:17:50 AM][0m: Running funannotate v0.6.0
+[92m[08:17:55 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[08:18:02 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[08:18:02 AM][0m: Using existing transcript evidence alignments
+[92m[08:18:13 AM][0m: Using existing protein evidence alignments
+[92m[08:19:06 AM][0m: Running BUSCO to find conserved gene models for training Augustus
+slurmstepd-i27: error: *** JOB 507713 ON i27 CANCELLED AT 2017-04-01T08:19:39 ***

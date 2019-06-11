@@ -1,0 +1,20 @@
+[92m[05:21:36 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[05:21:36 PM][0m: Running funannotate v0.5.8
+[92m[05:21:36 PM][0m: Downloading embryophyta busco models
+[92m[05:22:33 PM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[05:22:40 PM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[05:22:40 PM][0m: Aligning transcript evidence to genome with GMAP
+[92m[05:33:39 PM][0m: Aligning transcript evidence to genome with BLAT
+[92m[05:48:53 PM][0m: Mapping proteins to genome using tBlastn/Exonerate
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-p2g.py", line 46, in <module>
+    diamond_version = subprocess.Popen(['diamond', '--version'], stdout=subprocess.PIPE).communicate()[0].split('\n')[0]
+  File "/usr/lib64/python2.7/subprocess.py", line 711, in __init__
+    errread, errwrite)
+  File "/usr/lib64/python2.7/subprocess.py", line 1308, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+[92m[05:48:57 PM][0m: Running GeneMark-ES on assembly
+[92m[05:54:50 PM][0m: GeneMark-ES failed, likely input was not sufficient for training, provide a gmhmm.mod file and re-run
+-------------------------------------------------------
+Directory not copied. Error: [Errno 13] Permission denied: '/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/DB/embryophyta'

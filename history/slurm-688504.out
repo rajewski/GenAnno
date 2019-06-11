@@ -1,0 +1,41 @@
+mkdir: cannot create directory 'IPROUT': File exists
+04/05/2017 11:50:10:195 Welcome to InterProScan-5.22-61.0
+04/05/2017 11:50:17:408 Running InterProScan v5 in STANDALONE mode... on Linux
+04/05/2017 11:50:29:621 Loading file /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/purple_kush.proteins.fa
+04/05/2017 11:50:29:626 Running the following analyses:
+[CDD-3.14,Coils-2.2.1,Gene3D-3.5.0,Hamap-201605.11,MobiDBLite-1.0,PANTHER-11.1,Pfam-30.0,PIRSF-3.01,PRINTS-42.0,ProDom-2006.1,ProSitePatterns-20.119,ProSiteProfiles-20.119,SFLD-2,SMART-7.1,SUPERFAMILY-1.75,TIGRFAM-15.0]
+Available matches will be retrieved from the pre-calculated match lookup service.
+
+Matches for any sequences that are not represented in the lookup service will be calculated locally.
+2017-05-04 11:50:37,334 [amqEmbeddedWorkerJmsContainer-5] [uk.ac.ebi.interpro.scan.business.sequence.BerkeleyPrecalculatedProteinLookup:350] WARN - 
+
+The version of InterProScan you are using is 5.22-61.0
+The version of the lookup service you are using is 5.23-62.0
+As the data in these versions is not the same, you cannot use this match lookup service.
+InterProScan will now run locally
+If you would like to use the match lookup service, you have the following options:
+i) Download the newest version of InterProScan5 from our FTP site by following the instructions on:
+   https://www.ebi.ac.uk/interpro/interproscan.html
+ii) Download the match lookup service for your version of InterProScan from our FTP site and install it locally.
+    You will then need to edit the following property in your configuration file to point to your local installation:
+    precalculated.match.lookup.service.url=
+
+In the meantime, the analysis will continue to run locally.
+
+
+04/05/2017 11:55:29:145 Uploaded/Stored 74760 sequences for analysis
+slurmstepd-i39: error: *** JOB 688504 ON i39 CANCELLED AT 2017-05-04T21:50:12 DUE TO TIME LIMIT ***
+2017-05-04 21:50:12,023 [amqEmbeddedWorkerJmsContainer-1] [uk.ac.ebi.interpro.scan.management.model.implementations.RunBinaryStep:156] ERROR - Command line failed with exit code: 143
+Command: bin/prosite/ps_scan.pl -d data/prosite/20.119/prosite.dat --pfscan bin/prosite/pfscan -s -m -o gff /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i39_20170504_115017402_eqm9//jobPrositeProfiles/000000018151_000000018300.fasta 
+Error output from binary:
+Killed
+
+2017-05-04 21:50:12,023 [amqEmbeddedWorkerJmsContainer-4] [uk.ac.ebi.interpro.scan.management.model.implementations.RunBinaryStep:156] ERROR - Command line failed with exit code: 143
+Command: python bin/mobidb/mobidb-lite.py -a 64 -t 1 -bin /bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/interproscan/5.22-61.0/bin/mobidb/binx /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i39_20170504_115017402_eqm9//jobMobiDBLite/000000068001_000000070000.fasta 
+Error output from binary:
+
+2017-05-04 21:50:12,023 [amqEmbeddedWorkerJmsContainer-7] [uk.ac.ebi.interpro.scan.management.model.implementations.RunBinaryStep:156] ERROR - Command line failed with exit code: 143
+Command: bin/prosite/ps_scan.pl -d data/prosite/20.119/prosite.dat --pfscan bin/prosite/pfscan -s -m -o gff /rhome/arajewski/bigdata/Csativa/FAPredict/predict_results/temp/i39_20170504_115017402_eqm9//jobPrositeProfiles/000000054151_000000054300.fasta 
+Error output from binary:
+Killed
+

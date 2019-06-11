@@ -1,0 +1,555 @@
+-------------------------------------------------------
+[92m[11:39:49 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:49 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[11:39:50 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:50 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:50 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[11:39:50 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:50 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:50 AM][0m: Running funannotate v0.6.0
+[92m[11:39:50 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:51 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:51 AM][0m: Running funannotate v0.6.0
+[92m[11:39:51 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[11:39:51 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:51 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:51 AM][0m: Running funannotate v0.6.0
+[92m[11:39:51 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:51 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:39:51 AM][0m: Running funannotate v0.6.0
+[92m[11:39:51 AM][0m: Running funannotate v0.6.0
+[92m[11:39:51 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:51 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[11:39:51 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:51 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:51 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:39:52 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:52 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:52 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[11:39:52 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:52 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:52 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:52 AM][0m: Running funannotate v0.6.0
+[92m[11:39:52 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:52 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:39:52 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:52 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:39:52 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:39:52 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:52 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:53 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:53 AM][0m: Running funannotate v0.6.0
+[92m[11:39:53 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:53 AM][0m: Running funannotate v0.6.0
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 71, in <module>
+    os.remove(log_name)
+OSError: [Errno 2] No such file or directory: 'FAPredict/logfiles/funannotate-predict.log'
+-------------------------------------------------------
+[92m[11:39:53 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:53 AM][0m: Running funannotate v0.6.0
+[92m[11:39:53 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:39:53 AM][0m: Running funannotate v0.6.0
+[92m[11:39:53 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:53 AM][0m: Running funannotate v0.6.0
+[92m[11:39:53 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:54 AM][0m: Running funannotate v0.6.0
+[92m[11:39:54 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:39:54 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:54 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:39:54 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[11:39:54 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:54 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:54 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:55 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:55 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[11:39:55 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:55 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:55 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:55 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:39:55 AM][0m: Running funannotate v0.6.0
+[92m[11:39:55 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:39:55 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[11:39:55 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:55 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:55 AM][0m: Running funannotate v0.6.0
+[92m[11:39:56 AM][0m: Running funannotate v0.6.0
+[92m[11:39:56 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+-------------------------------------------------------
+[92m[11:39:56 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:39:56 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:39:56 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:56 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[11:39:56 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:56 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:56 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:39:56 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:56 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:39:56 AM][0m: Running funannotate v0.6.0
+[92m[11:39:56 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+-------------------------------------------------------
+[92m[11:39:56 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:56 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:39:56 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:39:56 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:56 AM][0m: Running funannotate v0.6.0
+[92m[11:39:57 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+-------------------------------------------------------
+[92m[11:39:57 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:57 AM][0m: Running funannotate v0.6.0
+[92m[11:39:57 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+-------------------------------------------------------
+[92m[11:39:57 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:57 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:39:57 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:57 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:39:57 AM][0m: Running funannotate v0.6.0
+[92m[11:39:57 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+-------------------------------------------------------
+[92m[11:39:57 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:58 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:58 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+-------------------------------------------------------
+[92m[11:39:58 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:58 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:39:58 AM][0m: Running funannotate v0.6.0
+[92m[11:39:58 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:39:58 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:39:58 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[11:39:58 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:58 AM][0m: Running funannotate v0.6.0
+[92m[11:39:58 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:39:58 AM][0m: Running funannotate v0.6.0
+[92m[11:39:59 AM][0m: Running funannotate v0.6.0
+[92m[11:39:59 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:39:59 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:39:59 AM][0m: Running funannotate v0.6.0
+[92m[11:39:59 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+-------------------------------------------------------
+[92m[11:39:59 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:39:59 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:39:59 AM][0m: Running funannotate v0.6.0
+[92m[11:39:59 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:00 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:00 AM][0m: Masked genome: 280 scaffolds; 132,763,289 bp
+[92m[11:40:00 AM][0m: Masked genome: 90 scaffolds; 66,486,021 bp
+[92m[11:40:00 AM][0m: Running funannotate v0.6.0
+[92m[11:40:00 AM][0m: Masked genome: 90 scaffolds; 66,486,021 bp
+[92m[11:40:01 AM][0m: Running funannotate v0.6.0
+[92m[11:40:01 AM][0m: Running funannotate v0.6.0
+[92m[11:40:01 AM][0m: Running funannotate v0.6.0
+[92m[11:40:01 AM][0m: Using existing transcript evidence alignments
+[92m[11:40:01 AM][0m: Running funannotate v0.6.0
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+[92m[11:40:02 AM][0m: Masked genome: 55 scaffolds; 33,139,287 bp
+[92m[11:40:02 AM][0m: Masked genome: 90 scaffolds; 49,708,805 bp
+[92m[11:40:02 AM][0m: Masked genome: 307 scaffolds; 132,762,843 bp
+[92m[11:40:02 AM][0m: Running funannotate v0.6.0
+[92m[11:40:02 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:40:02 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:40:02 AM][0m: Running funannotate v0.6.0
+[92m[11:40:02 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+[92m[11:40:02 AM][0m: Running funannotate v0.6.0
+[92m[11:40:02 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:40:02 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:40:02 AM][0m: Running funannotate v0.6.0
+[92m[11:40:02 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:40:02 AM][0m: Running funannotate v0.6.0
+[92m[11:40:03 AM][0m: Aligning transcript evidence to genome with GMAP
+-------------------------------------------------------
+[92m[11:40:03 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:40:03 AM][0m: Running funannotate v0.6.0
+[92m[11:40:03 AM][0m: Running funannotate v0.6.0
+[92m[11:40:03 AM][0m: Running funannotate v0.6.0
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[11:40:03 AM][0m: Running funannotate v0.6.0
+[92m[11:40:03 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:40:03 AM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[11:40:03 AM][0m: Running funannotate v0.6.0
+[92m[11:40:03 AM][0m: Running funannotate v0.6.0
+[92m[11:40:03 AM][0m: Running funannotate v0.6.0
+[92m[11:40:04 AM][0m: Masked genome: 280 scaffolds; 115,986,073 bp
+[92m[11:40:04 AM][0m: Masked genome: 717 scaffolds; 266,145,386 bp
+[92m[11:40:04 AM][0m: Masked genome: 226 scaffolds; 99,416,863 bp
+[92m[11:40:04 AM][0m: Running funannotate v0.6.0
+[92m[11:40:04 AM][0m: Running funannotate v0.6.0
+[92m[11:40:05 AM][0m: Using existing transcript evidence alignments
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+[92m[11:40:05 AM][0m: Masked genome: 55 scaffolds; 33,139,287 bp
+[92m[11:40:05 AM][0m: Masked genome: 24 scaffolds; 16,569,698 bp
+[92m[11:40:05 AM][0m: Masked genome: 401 scaffolds; 149,124,283 bp
+[92m[11:40:05 AM][0m: Running funannotate v0.6.0
+[92m[11:40:05 AM][0m: Running funannotate v0.6.0
+[92m[11:40:06 AM][0m: Using existing transcript evidence alignments
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+[92m[11:40:06 AM][0m: Masked genome: 24 scaffolds; 16,569,698 bp
+[92m[11:40:07 AM][0m: Using existing transcript evidence alignments
+[92m[11:40:10 AM][0m: Masked genome: 1,019 scaffolds; 299,280,660 bp
+[92m[11:40:10 AM][0m: Masked genome: 131 scaffolds; 66,278,227 bp
+[92m[11:40:10 AM][0m: Masked genome: 1,568 scaffolds; 365,552,080 bp
+[92m[11:40:10 AM][0m: Masked genome: 469 scaffolds; 165,693,264 bp
+[92m[11:40:10 AM][0m: Masked genome: 131 scaffolds; 66,278,227 bp
+[92m[11:40:10 AM][0m: Masked genome: 176 scaffolds; 82,847,586 bp
+[92m[11:40:10 AM][0m: Masked genome: 1,307 scaffolds; 332,209,023 bp
+[92m[11:40:10 AM][0m: Masked genome: 280 scaffolds; 115,986,073 bp
+[92m[11:40:11 AM][0m: Using existing transcript evidence alignments
+[92m[11:40:11 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:40:11 AM][0m: Aligning transcript evidence to genome with GMAP
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+[92m[11:40:11 AM][0m: Aligning transcript evidence to genome with GMAP
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 365, in <module>
+    if not lib.sha256_check(trans_temp, trans_temp+'.old'): #they are not the same, re-run GMAP
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 220, in sha256_check
+    output = [(fname, hashfile(open(fname, 'rb'), hashlib.sha256())) for fname in files]
+IOError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+[92m[11:40:15 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:40:16 AM][0m: Using 541,198 proteins as queries
+[92m[11:40:16 AM][0m: Running Diamond pre-filter search
+[92m[11:40:16 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:40:16 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:16 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:17 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:17 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:17 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:17 AM][0m: Using existing transcript evidence alignments
+[92m[11:40:17 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:40:18 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:18 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:18 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:18 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:18 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:18 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:18 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:18 AM][0m: Using 101,196 proteins as queries
+[92m[11:40:18 AM][0m: Running Diamond pre-filter search
+[92m[11:40:18 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:19 AM][0m: Using existing protein evidence alignments
+[92m[11:40:19 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:19 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:19 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:19 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 421, in <module>
+    if not lib.sha256_check(prot_temp, prot_temp+'.old'):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 220, in sha256_check
+    output = [(fname, hashfile(open(fname, 'rb'), hashlib.sha256())) for fname in files]
+IOError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/proteins.combined.fa.old'
+[92m[11:40:19 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:20 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:20 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:21 AM][0m: Masked genome: 90 scaffolds; 49,708,805 bp
+[92m[11:40:21 AM][0m: Masked genome: 90 scaffolds; 49,708,805 bp
+[92m[11:40:21 AM][0m: Masked genome: 90 scaffolds; 49,708,805 bp
+[92m[11:40:22 AM][0m: Using existing transcript evidence alignments
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+[92m[11:40:22 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:23 AM][0m: Found 0 preliminary alignments
+[92m[11:40:23 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:24 AM][0m: Using existing transcript evidence alignments
+[92m[11:40:24 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:26 AM][0m: Masked genome: 131 scaffolds; 66,278,227 bp
+[92m[11:40:26 AM][0m: Masked genome: 176 scaffolds; 82,847,586 bp
+[92m[11:40:27 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:27 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:40:27 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:40:27 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:40:28 AM][0m: RepeatMasking failed, check log files.
+[92m[11:40:28 AM][0m: Using existing transcript evidence alignments
+[92m[11:40:28 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:28 AM][0m: Using 0 proteins as queries
+[92m[11:40:28 AM][0m: Using 164,543 proteins as queries
+[92m[11:40:28 AM][0m: Running Diamond pre-filter search
+[92m[11:40:28 AM][0m: Running Diamond pre-filter search
+[92m[11:40:29 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-p2g.py", line 204, in <module>
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-p2g.py", line 204, in <module>
+    Hits = parseDiamond(BlastResult)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-p2g.py", line 68, in parseDiamond
+    with open(blastresult, 'rU') as input:
+IOError: [Errno 2] No such file or directory: 'p2g_22170/diamond.matches.tab'
+[92m[11:40:29 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+    Hits = parseDiamond(BlastResult)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-p2g.py", line 68, in parseDiamond
+    with open(blastresult, 'rU') as input:
+IOError: [Errno 2] No such file or directory: 'p2g_22747/diamond.matches.tab'
+[92m[11:40:30 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:31 AM][0m: Masked genome: 55 scaffolds; 150,579,799 bp
+[92m[11:40:31 AM][0m: Masked genome: 55 scaffolds; 150,579,799 bp
+[92m[11:40:31 AM][0m: Exonerate finished: found 0 alignments
+[92m[11:40:31 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:32 AM][0m: Using existing transcript evidence alignments
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+[92m[11:40:35 AM][0m: Masked genome: 648 scaffolds; 232,384,954 bp
+[92m[11:40:35 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:35 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:36 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:36 AM][0m: Using existing transcript evidence alignments
+[92m[11:40:36 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:37 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:37 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:37 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:37 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:37 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:37 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:37 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:38 AM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[11:40:38 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:40:38 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:40:40 AM][0m: Using 271,076 proteins as queries
+[92m[11:40:40 AM][0m: Running Diamond pre-filter search
+[92m[11:40:40 AM][0m: Using 271,076 proteins as queries
+[92m[11:40:40 AM][0m: Running Diamond pre-filter search
+[92m[11:40:40 AM][0m: Found 4,435 preliminary alignments
+[92m[11:40:40 AM][0m: Masked genome: 72 scaffolds; 49,885,567 bp
+[92m[11:40:40 AM][0m: Masked genome: 24 scaffolds; 16,569,698 bp
+[92m[11:40:40 AM][0m: Masked genome: 86 scaffolds; 33,132,884 bp
+[92m[11:40:40 AM][0m: Masked genome: 24 scaffolds; 16,569,698 bp
+[92m[11:40:40 AM][0m: Masked genome: 86 scaffolds; 33,132,884 bp
+[92m[11:40:41 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:40:41 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:40:41 AM][0m: Using existing transcript evidence alignments
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+[92m[11:40:42 AM][0m: Masked genome: 1,145 scaffolds; 315,610,923 bp
+[92m[11:40:42 AM][0m: Masked genome: 90 scaffolds; 49,708,805 bp
+[92m[11:40:42 AM][0m: Masked genome: 90 scaffolds; 49,708,805 bp
+[92m[11:40:42 AM][0m: Masked genome: 90 scaffolds; 49,708,805 bp
+[92m[11:40:42 AM][0m: Masked genome: 198 scaffolds; 83,048,453 bp
+[92m[11:40:42 AM][0m: Using existing transcript evidence alignments
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+[92m[11:40:42 AM][0m: Using existing transcript evidence alignments
+[92m[11:40:42 AM][0m: Using 502,696 proteins as queries
+[92m[11:40:42 AM][0m: Running Diamond pre-filter search
+[92m[11:40:43 AM][0m: Using 531,655 proteins as queries
+[92m[11:40:43 AM][0m: Running Diamond pre-filter search
+[92m[11:40:44 AM][0m: Masked genome: 24 scaffolds; 16,569,698 bp
+[92m[11:40:44 AM][0m: Found 0 preliminary alignments
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-p2g.py", line 204, in <module>
+    Hits = parseDiamond(BlastResult)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-p2g.py", line 68, in parseDiamond
+    with open(blastresult, 'rU') as input:
+IOError: [Errno 2] No such file or directory: 'p2g_41374/diamond.matches.tab'
+[92m[11:40:44 AM][0m: Masked genome: 24 scaffolds; 33,346,914 bp
+[92m[11:40:44 AM][0m: Masked genome: 24 scaffolds; 50,124,130 bp
+[92m[11:40:44 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:40:44 AM][0m: Found 0 preliminary alignments
+[92m[11:40:45 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:40:45 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:40:45 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:40:47 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:40:47 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:40:47 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:40:48 AM][0m: Using 203,010 proteins as queries
+[92m[11:40:48 AM][0m: Using 0 proteins as queries
+[92m[11:40:48 AM][0m: Using 0 proteins as queries
+[92m[11:40:48 AM][0m: Running Diamond pre-filter search
+[92m[11:40:48 AM][0m: Running Diamond pre-filter search
+[92m[11:40:48 AM][0m: Running Diamond pre-filter search
+[92m[11:40:48 AM][0m: Using 42,052 proteins as queries
+[92m[11:40:48 AM][0m: Running Diamond pre-filter search
+[92m[11:40:56 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:40:58 AM][0m: Masked genome: 11,086 scaffolds; 569,223,308 bp
+[92m[11:40:58 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:40:58 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:40:59 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:40:59 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:40:59 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:00 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:00 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:00 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:41:00 AM][0m: Using existing transcript evidence alignments
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+[92m[11:41:00 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:00 AM][0m: Using 541,198 proteins as queries
+[92m[11:41:00 AM][0m: Running Diamond pre-filter search
+[92m[11:41:00 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:41:01 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:01 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:41:01 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:01 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:01 AM][0m: Using existing transcript evidence alignments
+[92m[11:41:01 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:01 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:01 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:41:01 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:02 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:41:02 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:02 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:02 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:02 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:02 AM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[11:41:03 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:41:03 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:41:03 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:41:03 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:41:03 AM][0m: Aligning transcript evidence to genome with GMAP
+[92m[11:41:03 AM][0m: Using existing transcript evidence alignments
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 369, in <module>
+    os.remove(trans_temp+'.old')
+OSError: [Errno 2] No such file or directory: 'FAPredict/predict_misc/transcripts.combined.fa.old'
+     Progress: 0.00%      Progress: 1.42%      Progress: 1.92%      Progress: 11.14% [92m[11:41:07 AM][0m: Using 124,714 proteins as queries
+[92m[11:41:07 AM][0m: Running Diamond pre-filter search
+     Progress: 13.37%      Progress: 14.99% [92m[11:41:09 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:41:09 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+     Progress: 19.57% [92m[11:41:10 AM][0m: Found 256 preliminary alignments
+[92m[11:41:11 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+     Progress: 29.58% [92m[11:41:11 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:41:11 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:41:11 AM][0m: Using 265,774 proteins as queries
+[92m[11:41:11 AM][0m: Running Diamond pre-filter search
+[92m[11:41:11 AM][0m: Using 309,226 proteins as queries
+[92m[11:41:11 AM][0m: Running Diamond pre-filter search
+     Progress: 33.80% [92m[11:41:12 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:41:12 AM][0m: Using 349,854 proteins as queries
+[92m[11:41:12 AM][0m: Running Diamond pre-filter search
+[92m[11:41:13 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+     Progress: 34.88% [92m[11:41:13 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:41:13 AM][0m: Using 392,344 proteins as queries
+[92m[11:41:13 AM][0m: Running Diamond pre-filter search
+[92m[11:41:14 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+     Progress: 36.23% [92m[11:41:15 AM][0m: Using 430,811 proteins as queries
+[92m[11:41:15 AM][0m: Running Diamond pre-filter search
+     Progress: 37.52% [92m[11:41:15 AM][0m: Using 430,811 proteins as queries
+[92m[11:41:15 AM][0m: Running Diamond pre-filter search
+     Progress: 39.46% [92m[11:41:16 AM][0m: Using 496,872 proteins as queries
+[92m[11:41:16 AM][0m: Running Diamond pre-filter search
+[92m[11:41:16 AM][0m: Using 541,198 proteins as queries
+[92m[11:41:16 AM][0m: Running Diamond pre-filter search
+     Progress: 41.58%      Progress: 43.18%      Progress: 45.37%      Progress: 48.21% [92m[11:41:21 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+     Progress: 50.10%      Progress: 53.35%      Progress: 55.02% [92m[11:41:24 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+     Progress: 56.46%      Progress: 58.06%      Progress: 60.09% [92m[11:41:26 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+     Progress: 62.34% [92m[11:41:28 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+     Progress: 65.14% [92m[11:41:28 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+     Progress: 67.58% [92m[11:41:29 AM][0m: Using 541,198 proteins as queries
+[92m[11:41:29 AM][0m: Running Diamond pre-filter search
+[92m[11:41:30 AM][0m: Using 541,198 proteins as queries
+     Progress: 69.72% [92m[11:41:30 AM][0m: Running Diamond pre-filter search
+     Progress: 72.22% [92m[11:41:31 AM][0m: Using 541,198 proteins as queries
+[92m[11:41:31 AM][0m: Running Diamond pre-filter search
+     Progress: 75.29% [92m[11:41:32 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:41:33 AM][0m: Using 541,198 proteins as queries
+[92m[11:41:33 AM][0m: Running Diamond pre-filter search
+     Progress: 78.22% [92m[11:41:33 AM][0m: Using 541,198 proteins as queries
+[92m[11:41:33 AM][0m: Running Diamond pre-filter search
+     Progress: 79.93% [92m[11:41:34 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+[92m[11:41:34 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+     Progress: 82.14%      Progress: 83.95%      Progress: 87.51% [92m[11:41:37 AM][0m: Exonerate finished: found 0 alignments
+     Progress: 88.93% [92m[11:41:38 AM][0m: Using 541,198 proteins as queries
+[92m[11:41:38 AM][0m: Running Diamond pre-filter search
+[92m[11:41:38 AM][0m: Mapping proteins to genome using tBlastn/Exonerate
+     Progress: 90.80%      Progress: 93.48% [92m[11:41:41 AM][0m: Exonerate finished: found 0 alignments
+     Progress: 96.41%      Progress: 97.99%      Progress: 98.87%      Progress: 99.32% [92m[11:41:44 AM][0m: Using 541,198 proteins as queries
+[92m[11:41:44 AM][0m: Running Diamond pre-filter search
+     Progress: 99.95% mpiexec: Forwarding signal 18 to job
+slurmstepd-i24: error: *** JOB 499940 ON i24 CANCELLED AT 2017-03-31T11:41:45 ***
+--------------------------------------------------------------------------
+ORTE has lost communication with its daemon located on node:
+
+  hostname:  i25
+
+This is usually due to either a failure of the TCP network
+connection to the node, or possibly an internal failure of
+the daemon itself. We cannot recover from this failure, and
+therefore will terminate the job.
+--------------------------------------------------------------------------
+mpiexec: abort is already in progress...hit ctrl-c again to forcibly terminate
+

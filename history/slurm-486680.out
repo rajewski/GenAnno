@@ -1,0 +1,9 @@
+ModuleCmd_Load.c(208):ERROR:105: Unable to locate a modulefile for 'funannoate/git-live'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-p2g.py", line 42, in <module>
+    exo_version = subprocess.Popen(['exonerate', '--version'], stdout=subprocess.PIPE).communicate()[0].split('\n')[0]
+  File "/usr/lib64/python2.7/subprocess.py", line 711, in __init__
+    errread, errwrite)
+  File "/usr/lib64/python2.7/subprocess.py", line 1308, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory

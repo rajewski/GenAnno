@@ -1,0 +1,14 @@
+[92m[06:07:25 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[06:07:25 PM][0m: Running funannotate v0.5.8
+[92m[06:07:25 PM][0m: Downloading embryophyta busco models
+[92m[06:07:48 PM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[06:07:54 PM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[06:07:55 PM][0m: Using existing transcript evidence alignments
+[92m[06:08:06 PM][0m: Using existing protein evidence alignments
+[92m[06:08:13 PM][0m: Running GeneMark-ES on assembly
+[92m[07:05:14 PM][0m: Converting GeneMark GTF file to GFF3
+[92m[07:05:31 PM][0m: Found 96674 gene models
+[92m[07:06:20 PM][0m: Running BUSCO to find conserved gene models for training Augustus
+[92m[07:06:21 PM][0m: BUSCO training of Augusus failed, check busco logs, exiting
+-------------------------------------------------------
+Directory not copied. Error: [Errno 13] Permission denied: '/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/DB/embryophyta'

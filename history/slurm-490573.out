@@ -1,0 +1,953 @@
+-------------------------------------------------------
+[92m[12:59:06 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[12:59:06 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:06 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:06 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:06 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:06 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:06 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[12:59:06 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:06 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:06 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:06 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:07 PM][0m: Running funannotate v0.5.8
+[92m[12:59:07 PM][0m: Downloading embryophyta busco models
+-------------------------------------------------------
+[92m[12:59:07 PM][0m: Running funannotate v0.5.8
+[92m[12:59:07 PM][0m: Downloading embryophyta busco models
+[92m[12:59:07 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:07 PM][0m: Running funannotate v0.5.8
+[92m[12:59:07 PM][0m: Downloading embryophyta busco models
+[92m[12:59:07 PM][0m: Running funannotate v0.5.8
+[92m[12:59:07 PM][0m: Downloading embryophyta busco models
+[92m[12:59:07 PM][0m: Running funannotate v0.5.8
+[92m[12:59:07 PM][0m: Downloading embryophyta busco models
+[92m[12:59:07 PM][0m: Running funannotate v0.5.8
+[92m[12:59:07 PM][0m: Downloading embryophyta busco models
+-------------------------------------------------------
+[92m[12:59:07 PM][0m: Running funannotate v0.5.8
+[92m[12:59:07 PM][0m: Downloading embryophyta busco models
+[92m[12:59:07 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:07 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:07 PM][0m: Running funannotate v0.5.8
+[92m[12:59:07 PM][0m: Downloading embryophyta busco models
+[92m[12:59:07 PM][0m: Running funannotate v0.5.8
+[92m[12:59:07 PM][0m: Downloading embryophyta busco models
+-------------------------------------------------------
+[92m[12:59:08 PM][0m: Running funannotate v0.5.8
+[92m[12:59:08 PM][0m: Downloading embryophyta busco models
+[92m[12:59:08 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:08 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:08 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:08 PM][0m: Running funannotate v0.5.8
+[92m[12:59:08 PM][0m: Downloading embryophyta busco models
+-------------------------------------------------------
+[92m[12:59:09 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:09 PM][0m: Running funannotate v0.5.8
+[92m[12:59:09 PM][0m: Downloading embryophyta busco models
+[92m[12:59:09 PM][0m: Running funannotate v0.5.8
+[92m[12:59:09 PM][0m: Downloading embryophyta busco models
+[92m[12:59:09 PM][0m: Running funannotate v0.5.8
+[92m[12:59:09 PM][0m: Downloading embryophyta busco models
+[92m[12:59:09 PM][0m: Running funannotate v0.5.8
+[92m[12:59:09 PM][0m: Downloading embryophyta busco models
+-------------------------------------------------------
+[92m[12:59:09 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[12:59:09 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:09 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:09 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 70, in <module>
+    os.remove(log_name)
+OSError: [Errno 2] No such file or directory: 'FAPredict/logfiles/funannotate-predict.log'
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: Running funannotate v0.5.8
+[92m[12:59:10 PM][0m: Downloading embryophyta busco models
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: Running funannotate v0.5.8
+[92m[12:59:10 PM][0m: Downloading embryophyta busco models
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: Running funannotate v0.5.8
+[92m[12:59:10 PM][0m: Downloading embryophyta busco models
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:10 PM][0m: Running funannotate v0.5.8
+[92m[12:59:10 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:10 PM][0m: Running funannotate v0.5.8
+[92m[12:59:10 PM][0m: Downloading embryophyta busco models
+[92m[12:59:10 PM][0m: Downloading embryophyta busco models
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[12:59:11 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:11 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:11 PM][0m: Running funannotate v0.5.8
+[92m[12:59:11 PM][0m: Downloading embryophyta busco models
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[12:59:11 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:11 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:11 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:11 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:11 PM][0m: Running funannotate v0.5.8
+[92m[12:59:11 PM][0m: Downloading embryophyta busco models
+-------------------------------------------------------
+[92m[12:59:11 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+-------------------------------------------------------
+[92m[12:59:11 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:11 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+-------------------------------------------------------
+[92m[12:59:11 PM][0m: Running funannotate v0.5.8
+[92m[12:59:11 PM][0m: Downloading embryophyta busco models
+-------------------------------------------------------
+[92m[12:59:11 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:11 PM][0m: OS: linux2, 64 cores, ~ 528 GB RAM. Python: 2.7.5
+[92m[12:59:12 PM][0m: Running funannotate v0.5.8
+[92m[12:59:12 PM][0m: Downloading embryophyta busco models
+[92m[12:59:12 PM][0m: Running funannotate v0.5.8
+[92m[12:59:12 PM][0m: Downloading embryophyta busco models
+[92m[12:59:12 PM][0m: Running funannotate v0.5.8
+[92m[12:59:12 PM][0m: Downloading embryophyta busco models
+[92m[12:59:12 PM][0m: Running funannotate v0.5.8
+[92m[12:59:12 PM][0m: Downloading embryophyta busco models
+[92m[12:59:12 PM][0m: Running funannotate v0.5.8
+[92m[12:59:12 PM][0m: Downloading embryophyta busco models
+[92m[12:59:12 PM][0m: Running funannotate v0.5.8
+[92m[12:59:12 PM][0m: Downloading embryophyta busco models
+[92m[12:59:12 PM][0m: Running funannotate v0.5.8
+[92m[12:59:12 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:13 PM][0m: Running funannotate v0.5.8
+[92m[12:59:13 PM][0m: Downloading embryophyta busco models
+[92m[12:59:14 PM][0m: Running funannotate v0.5.8
+[92m[12:59:14 PM][0m: Downloading embryophyta busco models
+[92m[12:59:14 PM][0m: Running funannotate v0.5.8
+[92m[12:59:14 PM][0m: Downloading embryophyta busco models
+[92m[12:59:14 PM][0m: Running funannotate v0.5.8
+[92m[12:59:14 PM][0m: Downloading embryophyta busco models
+Directory not copied. Error: [Errno 13] Permission denied: '/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/DB/embryophyta'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 247, in rmtree
+    rmtree(fullname, ignore_errors, onerror)
+  File "/usr/lib64/python2.7/shutil.py", line 256, in rmtree
+    onerror(os.rmdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 254, in rmtree
+    os.rmdir(path)
+OSError: [Errno 39] Directory not empty: 'embryophyta_odb9/prfl'
+Directory not copied. Error: [Errno 13] Permission denied: '/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/DB/embryophyta'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 247, in rmtree
+    rmtree(fullname, ignore_errors, onerror)
+  File "/usr/lib64/python2.7/shutil.py", line 256, in rmtree
+    onerror(os.rmdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 254, in rmtree
+    os.rmdir(path)
+OSError: [Errno 39] Directory not empty: 'embryophyta_odb9/prfl'
+Directory not copied. Error: [Errno 13] Permission denied: '/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/DB/embryophyta'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 247, in rmtree
+    rmtree(fullname, ignore_errors, onerror)
+  File "/usr/lib64/python2.7/shutil.py", line 256, in rmtree
+    onerror(os.rmdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 254, in rmtree
+    os.rmdir(path)
+OSError: [Errno 39] Directory not empty: 'embryophyta_odb9/prfl'
+Directory not copied. Error: [Errno 13] Permission denied: '/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/DB/embryophyta'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 247, in rmtree
+    rmtree(fullname, ignore_errors, onerror)
+  File "/usr/lib64/python2.7/shutil.py", line 256, in rmtree
+    onerror(os.rmdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 254, in rmtree
+    os.rmdir(path)
+OSError: [Errno 39] Directory not empty: 'embryophyta_odb9/prfl'
+Directory not copied. Error: [Errno 13] Permission denied: '/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/DB/embryophyta'
+[92m[01:00:05 PM][0m: AUGUSTUS (3.1.0) detected, version seems to be compatible with BRAKER1 and BUSCO
+[92m[01:00:17 PM][0m: Masked genome: 11,110 scaffolds; 585,823,666 bp
+[92m[01:00:18 PM][0m: Using existing transcript evidence alignments
+[92m[01:00:41 PM][0m: Using existing protein evidence alignments
+[92m[01:00:58 PM][0m: Running GeneMark-ES on assembly
+[92m[01:10:21 PM][0m: GeneMark-ES failed, likely input was not sufficient for training, provide a gmhmm.mod file and re-run
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
+Directory not copied. Error: [Errno 2] No such file or directory: '/bigdata/littlab/arajewski/Csativa/embryophyta_odb9'
+Traceback (most recent call last):
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/bin/funannotate-predict.py", line 96, in <module>
+    lib.download_buscos(args.busco_db)
+  File "/bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/lib/library.py", line 1984, in download_buscos
+    shutil.rmtree(foldername)
+  File "/usr/lib64/python2.7/shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "/usr/lib64/python2.7/shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+OSError: [Errno 2] No such file or directory: 'embryophyta_odb9'
